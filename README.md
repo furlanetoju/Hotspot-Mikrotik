@@ -1,5 +1,7 @@
 # Criando hotspot Mikrotik
 
+**Nos arquivos acima, tem o backup .rcs e tem um arquivo como hotspot.zip, que é os arquivos que precisam estar dentro do file do mikrotik para funcionar.**
+
 1° Vamos criar a nossa bridge cliente e associar as interfaces as mesmas.
 
 2° Depois definimos uma faixa de IP local e adicionamos a nossa bridge-clientes.
